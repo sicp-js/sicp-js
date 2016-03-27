@@ -4,4 +4,6 @@
 
 These pages contain selected sections of [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Sussman with Julie Sussman.
 
-The programs are given in JavaScript, translated from Scheme by [Martin Henz](https://www.comp.nus.edu.sg/~henz/).
+The programs are given in JavaScript, translated from Scheme by [Martin Henz](https://www.comp.nus.edu.sg/~henz/)
+
+Original source is [here](http://www.comp.nus.edu.sg/~cs1101s/sicp/)
